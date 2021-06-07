@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Word.AddImage", "ConsoleApp.Word.AddImage.csproj", "{4BCE9E1A-091C-403E-B06C-8DC17CCCE811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BCE9E1A-091C-403E-B06C-8DC17CCCE811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BCE9E1A-091C-403E-B06C-8DC17CCCE811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BCE9E1A-091C-403E-B06C-8DC17CCCE811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BCE9E1A-091C-403E-B06C-8DC17CCCE811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7A12841-5FCB-491C-9A03-703F89AF80AE}
+	EndGlobalSection
+EndGlobal
